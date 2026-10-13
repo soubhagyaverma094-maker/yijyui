@@ -1,0 +1,11 @@
+# Quality Gate (all must pass before delivery)
+- [ ] 360px, 768px, 1440px verified, no horizontal scroll
+- [ ] Hero loads fast; 3D lazy-loaded with poster fallback
+- [ ] Reduced-motion path and no-WebGL path tested
+- [ ] Contrast AA, focus rings, keyboard nav, form labels, alt text
+- [ ] Lighthouse: Perf 85+, A11y 95+, SEO 95+, Best Practices 95+
+- [ ] No console errors; links and CTAs work; form has success + error states
+- [ ] Library versions pinned; assets licensed; no fragile hotlinked images
+- [ ] Palette via CSS variables; one signature moment, not five
+- [ ] Copy is real, specific, typo-free
+- [ ] Self-critique: remove one decoration; check the "Avoid" list
